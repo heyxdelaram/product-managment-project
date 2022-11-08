@@ -14,7 +14,7 @@ Imperishable goods need a maximum storage day labeled on them.
 
 Perishable goods need maximum and minimum temperatures labeled on them.
 
-The workflow goes like this:
+###### The Workflow
 
 The Marketing and Sales team starts to brainstorm and plan with the financial manager on what goods to produce according to customer demands.
 
@@ -23,7 +23,7 @@ The technical supervisor of each line is responsible for producing the products 
 These products are transported to the warehouses and the warehouse supervisor has to 
 record the products that have been received and stored in the warehouse.
 
-Marketing and Sales Team:
+`Marketing and Sales Team:`
 
 They find what goods are in demand according to customer demands, market analysis, etc. They predict the number and type of these products. This team should be able to record their orders. 
 
@@ -37,7 +37,7 @@ The order statuses are separated into three groups by the technical supervisor:
 
 The person that must manage the production line based on the initial materials and orders, which are the ones that the marketing team recorded in the system. They start the work day with the production line by running the system. Every day at 2 pm, they print the production invoice until that time and give it to the warehouse manager to deliver them to the warehouse so that they can change the order status for the sales and marketing team.
 
-Warehouse Manager:
+`Warehouse Manager:`
 
 Based on the printed invoice and the received products, they check if the number of products in the invoice and the ones in the warehouse are equal or not, if so, they verify the invoice.
 
