@@ -33,7 +33,7 @@ The order statuses are separated into three groups by the technical supervisor:
 - In production = products that are currently being produced 
 - Done and delivered = products that have been produced and delivered to the warehouse
 
-Technical Supervisor:
+*Technical Supervisor:*
 
 The person that must manage the production line based on the initial materials and orders, which are the ones that the marketing team recorded in the system. They start the work day with the production line by running the system. Every day at 2 pm, they print the production invoice until that time and give it to the warehouse manager to deliver them to the warehouse so that they can change the order status for the sales and marketing team.
 
