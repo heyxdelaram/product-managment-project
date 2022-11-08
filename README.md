@@ -23,7 +23,7 @@ The technial supervisor of each line is responsible for producing the products t
 These products are transported to the warehouses and the warehouse supervisor has to 
 record the products that have been received and stored in the warehouse.
 
-Sales Team:
+Marketing and Sales Team:
 
 They find what goods are in demand according to customer demands, market analysis, etc. They predict the number and type of these products. This team should be able to record their orders. 
 
@@ -32,4 +32,25 @@ The order statuses are seperated in three groups by the technical supervisor:
 - In queue = products that will be produced soon
 - In production = products that are currently being produced 
 - Done and delivered = products that have been produced and delivered to the warehouse
+
+Technical Supervisor:
+
+The person that must manage the production line based on the initial materials and orders, which are the ones that the marketing team recorded in the system. They start the work day with the production line and start producing the products through the system. Everyday at 2pm, they print the production invoice until that time, give it to the warehouse manager to deliver them to the warehouse so that they can chane the order status for the sales and marketing team.
+
+Warehouse Manager:
+
+Based on the printed invoice and the received products, they check if the number of products in the invoice and the ones in the warehouse are equal or not, if so, the verify the invoice.
+
+Every product has a name, code, production date and expiration date. The price and storage conditions vary for each product type.
+
+- name
+- code
+- price
+- perishable/imperishable
+- address
+
+Each box contains 24 goods.
+
+Transportation outside the factory is done in two ways. Dairy products(Perishable goods) need a refrigerator implemented truck and carry up to 5 ton. The rest of the products are transported via normal trucks with a tolerance of 10 ton.
+
 
